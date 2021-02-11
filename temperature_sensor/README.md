@@ -1,3 +1,7 @@
+Prerequiste for arduino project:
+
+- Installation of the arduino IDE: https://www.arduino.cc/en/guide/windows for windows
+
 temperatureSensorWithLCD.ino:
 
 Liste a material used:
