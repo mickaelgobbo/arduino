@@ -1,6 +1,7 @@
 Prerequiste for arduino project:
 
 - Installation of the arduino IDE: https://www.arduino.cc/en/guide/windows for windows
+- Tool which can be useful to design electric diagram: https://easyeda.com/
 
 temperatureSensorWithLCD.ino:
 
