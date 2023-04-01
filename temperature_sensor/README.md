@@ -13,3 +13,16 @@ Liste a material used:
 CapteurDeTemperatureAffichageOLED:
 - ecran OLED SSD1306 64*128
 - Adafruit_SSD1306-master library
+
+
+additional libraries:
+You will need some aditionnal libraries to have the compilation of this program successful.
+
+For example, with the bellow errors you will need to download the corresponding library:
+Error: Adafruit_Sensor.h No such file or directory
+Library: https://github.com/adafruit/Adafruit_Sensor
+
+Error: DHT.h: No such file or directory
+Library: https://github.com/adafruit/DHT-sensor-library
+
+To add a library in your IDE, you have to click on Sketch, Include Library and add .Zip library.
